@@ -2,7 +2,7 @@
 title: "K"
 ---
 
-- Knowledge, properties of: 1602.A
-- Knowledge, classical analysis of: 1602.A.003.A
-- Knowledge, causal theory of: 1602.A.003.C
-- Knowledge, tracking theory of: 1602.A.008
+- Properties of knowledge: [[1602.A]]
+- Classical analysis of knowledge: [[1602.A.003.A]]
+- Causal theory of knowledge: [[1602.A.003.C]]
+- Tracking theory of knowledge: [[1602.A.008]]

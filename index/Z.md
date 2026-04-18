@@ -2,4 +2,4 @@
 title: "Z"
 ---
 
-- Zhuangzi's butterfly dream: 1601.002
+- Zhuangzi's butterfly dream: [[1601.002]]

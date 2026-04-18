@@ -2,4 +2,4 @@
 title: "V"
 ---
 
-- Visual arts: 1200
+- Visual arts: [[1200]]

@@ -2,5 +2,5 @@
 title: "B"
 ---
 
-- Business: 2200
-- Biology: 3500
+- Business: [[2200]]
+- Biology: [[3500]]

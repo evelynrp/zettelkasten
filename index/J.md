@@ -2,4 +2,4 @@
 title: "J"
 ---
 
-- Journalism, media studies, communications: 5600
+- Journalism, media studies, communications: [[5600]]
