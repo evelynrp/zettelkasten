@@ -18,3 +18,5 @@ title: "C"
 - Political lens of community: [[5723.D]]
 - Community engagement requires measurable goals: [[5722.A]]
 - Essential elements of community engagement: [[5722.-A]]
+- Contingency (Luhmann): [[2802_A_A_001]]
+- Social complexity: [[2802_E]]

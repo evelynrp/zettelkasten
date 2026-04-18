@@ -8,3 +8,4 @@ title: "I"
 - Interest-relative invariantism: [[1602.A.010]]
 - Intersubjective agreement: [[1601.002.A]]
 - Intersectionality in community engagement: [[5723.A.002]]
+- Inclusion and exclusion (Luhhman): [[2802_A_B]]

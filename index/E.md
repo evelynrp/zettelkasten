@@ -11,3 +11,5 @@ title: "E"
 - Semantic externalism: [[1602.A.004]]
 - Empiricism: [[1602.A.006]]
 - Externalism (epistemology): [[1602.A.007]]
+- Inclusion and exclusion (Luhhman): [[2802_A_B]]
+- Evolution (Luhmann): [[2802_D]]
