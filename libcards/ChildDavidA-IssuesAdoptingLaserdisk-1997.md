@@ -10,7 +10,5 @@ issue: "3"
 date: "1997"
 ---
 
-| Page | Note |
-| --- | --- |
-| 169 | Lack of access resulted in more teacher-centric classrooms |
-| 169 | Small but not significant improvements to student engagement and anxiety |
+- 169: Lack of access resulted in more teacher-centric classrooms
+- 169: Small but not significant improvements to student engagement and anxiety
